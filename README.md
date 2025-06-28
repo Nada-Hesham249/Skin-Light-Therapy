@@ -25,9 +25,9 @@ The project investigates the **combined therapeutic effects** of light and sound
 https://drive.google.com/drive/folders/1jqgnGG_OHaqwhoHqUEwm11gFuKCaBw_U?usp=sharing
 
 ### Members :
-[Nada Hesham Mohammed](https://github.com/Nada-Hesham249)  
+- [Nada Hesham Mohammed](https://github.com/Nada-Hesham249) -
 
-[Shahd Ayman Rezk](https://github.com/Shahd-Ayman5)
+- [Shahd Ayman Rezk](https://github.com/Shahd-Ayman5) -
 
 [Nayera Sherif Elaraby](https://github.com/Nayera5)
 
